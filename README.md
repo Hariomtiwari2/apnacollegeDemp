@@ -1,4 +1,4 @@
 # apnacollegeDemp
 this is my second Git repository
 <br>
-Author - Hariom Tiwari
+Author - Hariom (student)
